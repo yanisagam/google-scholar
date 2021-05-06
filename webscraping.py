@@ -154,8 +154,6 @@ author.to_csv('author.csv')
 paper.to_csv('paper.csv')
 
 
-# In[ ]:
-
 
 
 
